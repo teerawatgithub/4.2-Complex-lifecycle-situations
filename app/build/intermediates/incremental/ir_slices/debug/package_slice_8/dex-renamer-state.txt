@@ -1,0 +1,4 @@
+#Mon Oct 07 16:50:25 ICT 2019
+base.0=C\:\\Users\\Acer\\AndroidStudioProjects\\android-kotlin-fundamentals-apps\\DessertClickerLogs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
