@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Acer\\AndroidStudioProjects\\android-kotlin-fundamentals-apps\\DessertClickerLogs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
+            "outputFile": "C:\\Users\\Acer\\AndroidStudioProjects\\4.2-Complex-lifecycle-situations\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Acer\\.gradle\\caches\\transforms-2\\files-2.1\\7e99d2ee2460aa2a1849a965d0556625\\res\\values-sq\\values-sq.xml",

@@ -1,59 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Acer\\AndroidStudioProjects\\android-kotlin-fundamentals-apps\\DessertClickerLogs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Acer\\AndroidStudioProjects\\4.2-Complex-lifecycle-situations\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Acer\\AndroidStudioProjects\\android-kotlin-fundamentals-apps\\DessertClickerLogs\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\Acer\\AndroidStudioProjects\\4.2-Complex-lifecycle-situations\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
-                        "startLines": "19,18,22,17,21,20",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "799,753,943,705,895,846",
-                        "endColumns": "45,44,43,46,46,47",
-                        "endOffsets": "840,793,982,747,937,889"
-                    },
-                    "to": {
-                        "startLines": "353,354,362,363,379,380",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "18977,19023,19556,19600,20817,20864",
-                        "endColumns": "45,44,43,46,46,47",
-                        "endOffsets": "19018,19063,19595,19642,20859,20907"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Acer\\AndroidStudioProjects\\android-kotlin-fundamentals-apps\\DessertClickerLogs\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "19,17,18,21,22,20",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "809,706,755,898,939,857",
-                        "endColumns": "46,47,52,39,40,39",
-                        "endOffsets": "851,749,803,933,975,892"
-                    },
-                    "to": {
-                        "startLines": "227,228,229,238,239,277",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "10643,10690,10738,11337,11377,13820",
-                        "endColumns": "46,47,52,39,40,39",
-                        "endOffsets": "10685,10733,10786,11372,11413,13855"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Acer\\AndroidStudioProjects\\android-kotlin-fundamentals-apps\\DessertClickerLogs\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "19",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "708",
-                        "endLines": "24",
-                        "endColumns": "12",
-                        "endOffsets": "1031"
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
                     },
                     "to": {
-                        "startLines": "486",
+                        "startLines": "242",
                         "startColumns": "4",
-                        "startOffsets": "27539",
-                        "endLines": "491",
-                        "endColumns": "12",
-                        "endOffsets": "27857"
+                        "startOffsets": "11553",
+                        "endColumns": "56",
+                        "endOffsets": "11605"
                     }
                 },
                 {
@@ -133,24 +97,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Acer\\AndroidStudioProjects\\android-kotlin-fundamentals-apps\\DessertClickerLogs\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "source": "C:\\Users\\Acer\\AndroidStudioProjects\\4.2-Complex-lifecycle-situations\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2",
+                        "startLines": "19",
                         "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "56",
-                        "endOffsets": "109"
+                        "startOffsets": "708",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1031"
                     },
                     "to": {
-                        "startLines": "242",
+                        "startLines": "486",
                         "startColumns": "4",
-                        "startOffsets": "11553",
-                        "endColumns": "56",
-                        "endOffsets": "11605"
+                        "startOffsets": "27539",
+                        "endLines": "491",
+                        "endColumns": "12",
+                        "endOffsets": "27857"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Acer\\AndroidStudioProjects\\android-kotlin-fundamentals-apps\\DessertClickerLogs\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Acer\\AndroidStudioProjects\\4.2-Complex-lifecycle-situations\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "17,20,18,22,21,23,19",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -164,6 +130,40 @@
                         "startOffsets": "26565,26618,26673,26768,26808,26919,27062",
                         "endColumns": "52,54,41,39,110,71,34",
                         "endOffsets": "26613,26668,26710,26803,26914,26986,27092"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Acer\\AndroidStudioProjects\\4.2-Complex-lifecycle-situations\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "19,17,18,21,22,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "809,706,755,898,939,857",
+                        "endColumns": "46,47,52,39,40,39",
+                        "endOffsets": "851,749,803,933,975,892"
+                    },
+                    "to": {
+                        "startLines": "227,228,229,238,239,277",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "10643,10690,10738,11337,11377,13820",
+                        "endColumns": "46,47,52,39,40,39",
+                        "endOffsets": "10685,10733,10786,11372,11413,13855"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Acer\\AndroidStudioProjects\\4.2-Complex-lifecycle-situations\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "19,18,22,17,21,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "799,753,943,705,895,846",
+                        "endColumns": "45,44,43,46,46,47",
+                        "endOffsets": "840,793,982,747,937,889"
+                    },
+                    "to": {
+                        "startLines": "353,354,362,363,379,380",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "18977,19023,19556,19600,20817,20864",
+                        "endColumns": "45,44,43,46,46,47",
+                        "endOffsets": "19018,19063,19595,19642,20859,20907"
                     }
                 },
                 {
